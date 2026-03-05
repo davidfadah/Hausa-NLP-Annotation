@@ -1,0 +1,49 @@
+Hausa Annotation Guidelines
+
+1. Objective
+
+The goal of this dataset is to provide high-quality, human-verified Hausa-English sentence pairs for Natural Language Processing (NLP). This guide ensures consistency in labeling grammatical nuances that automated systems often miss.
+
+2. Structural Standards
+
+Each entry in the corpus follows a strict JSON schema:
+
+* id: A unique alphanumeric identifier (e.g., HS-001).
+* text: The source Hausa sentence in standard orthography.
+* translation: A semantic English translation (focusing on meaning over literal word-for-word mapping).
+* analysis: A specialized field for linguistic metadata.
+
+3. Linguistic Rules
+
+A. Tense-Aspect-Mood (TAM) Markers
+Hausa marks tense through particles. These are labeled in the analysis field:
+
+* Rule: Distinguish between the Relative Past (e.g., ya/ta) and the Subjunctive (e.g., ya/in/mu).
+* Example: In "Yaron ya tafi," the marker is labeled as Relative Past TAM.
+
+B. Verb Grade Morphology
+Hausa verbs change endings based on their "Grade," which alters the meaning (Transitive/Intransitive/Directional).
+
+* Rule: Explicitly note Grade shifts that change the verb's core action.
+* Key Example:
+* Koya (Grade 1): To teach (Action directed outward).
+   * Koyi (Grade 4/7): To learn (Action of acquisition).
+
+C. Orthography & Suffixes
+
+* Rule: Document morphological attachments, such as the definite article suffix -n or -r.
+* Example: Yaron is annotated as Yaro (Noun) + -n (Definite).
+
+D. Idiomatic & Compound Expressions
+
+* Rule: Idioms (e.g., girman kai) and compound nouns (e.g., abincin safe) are identified to prevent "Machine Translation Hallucinations" where a model might translate the words literally.
+
+4. Quality Assurance
+
+Entries are reviewed for:
+
+   1. Native-level fluency.
+   2. Adherence to standard Hausa hooked-letter orthography (ɓ, ɗ, ƙ).
+   3. Accuracy of "Aspectual Verbs" like riga/rigaya.
+
+
