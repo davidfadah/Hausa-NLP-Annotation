@@ -1,0 +1,139 @@
+[
+{
+"id": "HS-001",
+"text": "Yaron ya tafi makaranta domin ya koyi karatu.",
+"translation": "The boy went to school so he could learn to read.",
+"analysis": {
+"koyi": "Grade 4 (to learn) vs. Grade 1 (Koya - to teach)",
+"ya": "Relative Past TAM (first 'ya') vs. Subjunctive TAM (second 'ya')",
+"morphology": "Yaron (Yaro + -n definite article)"
+}
+},
+{
+"id": "HS-002",
+"text": "Idan rana ta fito, mutane za su fara aiki.",
+"translation": "When the sun comes out, people will start working.",
+"analysis": {
+"ta": "Relative Past TAM (feminine agreement with 'rana')",
+"za su": "Future Tense Marker"
+}
+},
+{
+"id": "HS-003",
+"text": "Mahaifiyata ta ce lallai in dawo gida da wuri.",
+"translation": "My mother said I should certainly come home early.",
+"analysis": {
+"lallai": "Adverb of emphasis (certainly/surely)",
+"in": "1st person singular subjunctive marker"
+}
+},
+{
+"id": "HS-004",
+"text": "Wannan littafi ne wanda na saya a kasuwar Kaduna.",
+"translation": "This book is the one I bought in Kaduna market.",
+"analysis": {
+"wanda": "Relative pronoun (masculine)",
+"na": "1st person relative past TAM"
+}
+},
+{
+"id": "HS-005",
+"text": "Duk da cewa yana da kudi, baya girman kai ko kadan.",
+"translation": "Even though he has money, he is not arrogant at all.",
+"analysis": {
+"girman kai": "Idiom (lit. 'size of head') meaning Arrogance/Pride",
+"baya": "Negative continuous TAM",
+"ko kadan": "Emphatic negation (not at all)"
+}
+},
+{
+"id": "HS-006",
+"text": "Muna so mu ziyarci kakaninmu idan hutu ya zo.",
+"translation": "We want to visit our grandparents when the holiday comes.",
+"analysis": {
+"kakaninmu": "Noun (Plural) + possessive suffix '-mu' (our)",
+"mu": "Subjunctive marker (we)"
+}
+},
+{
+"id": "HS-007",
+"text": "Abincin da kika dafa yana da dadi sosai.",
+"translation": "The food you cooked is very tasty.",
+"analysis": {
+"kika": "2nd person feminine relative past TAM",
+"dadi": "Noun used as an adjective (sweetness/tastiness)"
+}
+},
+{
+"id": "HS-008",
+"text": "Kada ka manta ka kulle kofa kafin ka kwanta barci.",
+"translation": "Don't forget to lock the door before you lie down to sleep.",
+"analysis": {
+"Kada": "Negative imperative marker (Don't)",
+"ka": "2nd person subjunctive marker"
+}
+},
+{
+"id": "HS-009",
+"text": "Malamin ya gaya mana cewa jarrabawa tana da wahala.",
+"translation": "The teacher told us the exam is difficult.",
+"analysis": {
+"jarrabawa": "Loanword (Arabic origin) meaning Exam/Test",
+"wahala": "Meaning 'difficulty' in this context"
+}
+},
+{
+"id": "HS-010",
+"text": "Na ga mutumin da yake neman gidanka dazu.",
+"translation": "I saw the man who was looking for your house earlier.",
+"analysis": {
+"yake": "3rd person masculine relative continuous TAM",
+"dazu": "Temporal adverb (earlier today)"
+}
+},
+{
+"id": "HS-011",
+"text": "Kodayake an yi ruwa, mun je wasan kwallon kafa.",
+"translation": "Even though it rained, we went to the football match.",
+"analysis": {
+"an": "Impersonal/Passive past TAM (it was done)",
+"kwallon kafa": "Compound noun (lit. 'ball of foot') for Football"
+}
+},
+{
+"id": "HS-012",
+"text": "Ina jin yunwa sosai saboda ban ci abincin safe ba.",
+"translation": "I'm feeling very hungry because I didn't eat breakfast.",
+"analysis": {
+"ban ... ba": "Negative past discontinuous marker",
+"abincin safe": "Compound noun for Breakfast"
+}
+},
+{
+"id": "HS-013",
+"text": "Zan zo gidanku idan na gama wanke motata.",
+"translation": "I'll come to your house when I finish washing my car.",
+"analysis": {
+"motata": "Mota + -ta (Feminine possessive suffix 'my')",
+"Zan": "1st person future TAM"
+}
+},
+{
+"id": "HS-014",
+"text": "Yarinyar da ta ci gasar tana da matukar hazaka.",
+"translation": "The girl who won the competition is very talented.",
+"analysis": {
+"ta ci": "Verb 'ci' (lit. eat) used here as 'to win'",
+"hazaka": "Noun meaning Intelligence/Brilliance"
+}
+},
+{
+"id": "HS-015",
+"text": "Mun riga mun san cewa gaskiya ita ce hanyar tsira.",
+"translation": "We already know that truth is the path to salvation.",
+"analysis": {
+"riga": "Aspectual verb meaning 'already' (short for Rigaya)",
+"tsira": "Noun meaning Salvation/Survival/Safety"
+}
+}
+  ]
